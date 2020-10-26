@@ -23,7 +23,8 @@
    1)Get the news 2) get date and time 3)End the Bot   user have to select his choice, if user selects option 1 it shows newsmenu. In newsmenu we have 9 choices
    namely 1.Econmy 2.Environment 3.Political 4.Industry 5.Science & Technology 6.flimyfocus 7.Sports 8.International 9.End the search. Based on user interest it's shows 
    specific news.If user selects choice 2 in mainmenu it will shows time and date.If  user enters 3 chatbot will end by saying thank you. 
-   
+# link for video of the bot:
+   https://youtu.be/2ikFELDJHj8
 # Resoureses :
    https://www.w3schools.com/
    
