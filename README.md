@@ -8,7 +8,7 @@
    
    https://infamousadoredmineral.kalasri.repl.co/
 
-# link for code in Repl.it
+# link for Repo 
 
    https://repl.it/join/oevqxiaj-kalasri
    
