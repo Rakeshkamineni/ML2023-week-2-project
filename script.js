@@ -8,6 +8,10 @@ var  name = window.prompt("Enter Your Name : ");
 //user intro function ended
 
 
+
+
+
+
 //greet function according to time started
 
 function greet(){
@@ -28,6 +32,12 @@ function greet(){
 }
 //greet function ended
 
+
+
+
+
+
+
 //show main menu
 
 function selectmenu(){
@@ -37,6 +47,10 @@ function selectmenu(){
 
 }
 selectmenu();
+
+
+
+
 
 //function for selecting main menu 
 
@@ -64,6 +78,15 @@ function myFunction() {
 }
 
 //function for selecting main menu (ended)
+
+
+
+
+
+
+
+
+
 
 //get news function started
 
@@ -115,3 +138,4 @@ function ec(){
 }
 
 // getnews function ended
+
