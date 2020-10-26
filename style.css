@@ -1,0 +1,54 @@
+body { 
+  border: 3px solid black;
+  padding: 10%;
+  align-content: center;
+	color: black; 
+	font-weight: bold; 
+	font-size: 30px; 
+	font-family: "Courier New"; 
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvbQ-SjE-5txqatuHGBy-X6Za6bwncLjcpnA&usqp=CAU');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover; 
+  text-align: center;
+}
+
+
+button{
+  font-size: 20px;
+  color: black;
+  padding: 5%;
+  text-align: center;
+  fill:grey;
+  border: 5px solid #555;
+}
+
+#hero{
+    border: 3px solid black;
+    background-image: url('https://wallpapercave.com/wp/wp3643275.jpg');
+    background-size: cover;
+    background-position: center;
+    position :relative;
+    z-index: 1;
+    padding: 10%;
+}
+
+#hero::after{
+    position: absolute;
+    width: 200%; 
+    height: 200%;
+    background-color: black;
+    opacity: .7;
+    z-index: -1;
+}
+
+#hero h1{
+    
+    font-size: 2rem;
+    position: left;
+    color: rgb(7, 6, 6);
+}
+
+img{
+   border: 5px solid #555;
+}
