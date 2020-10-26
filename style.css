@@ -14,6 +14,7 @@ body {
 }
 
 
+
 button{
   font-size: 20px;
   color: black;
@@ -22,6 +23,8 @@ button{
   fill:grey;
   border: 5px solid #555;
 }
+
+
 
 #hero{
     border: 3px solid black;
@@ -33,6 +36,8 @@ button{
     padding: 10%;
 }
 
+
+
 #hero::after{
     position: absolute;
     width: 200%; 
@@ -42,12 +47,14 @@ button{
     z-index: -1;
 }
 
+
 #hero h1{
     
     font-size: 2rem;
     position: left;
     color: rgb(7, 6, 6);
 }
+
 
 img{
    border: 5px solid #555;
