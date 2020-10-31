@@ -8,11 +8,11 @@
  
  # link for chat bot:
    
-   https://infamousadoredmineral.kalasri.repl.co/
+   https://mainmenu.kalasri.repl.co
 
 # link for Repl.it code: 
 
-   https://repl.it/join/oevqxiaj-kalasri
+   https://repl.it/join/kmmqtyrq-kalasri
    
 # Objective:
    Nowadays, most of the people are lazy  to read whole news papers and articles, so our intention is to make a chatbot that could help a user to know the news headlines.
@@ -24,10 +24,10 @@
    namely 1.Econmy 2.Environment 3.Political 4.Industry 5.Science & Technology 6.flimyfocus 7.Sports 8.International 9.End the search. Based on user interest it's shows 
    specific news.If user selects choice 2 in mainmenu it will shows time and date.If  user enters 3 chatbot will end by saying thank you. 
 # link for video of the bot:
-   https://youtu.be/2ikFELDJHj8
+   https://youtu.be/lqS-7Bvxv1Y
 # Resoureses :
    https://www.w3schools.com/
    
 # Resourses for news
-   Economictimes
+   Economic times
    https://economictimes.indiatimes.com/news/economy
