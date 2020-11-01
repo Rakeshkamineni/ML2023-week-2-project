@@ -11,6 +11,8 @@ body {
   background-attachment: fixed;  
   background-size: cover; 
   text-align: center;
+   text-shadow:  0 0 15px #8a8a8a, 0 0 20px black, 0 0 40px black, 0 0 60px grey, 0 0 10px #c9c9c9, 0 0 98px #4b4b4b;
+
 }
 
 
